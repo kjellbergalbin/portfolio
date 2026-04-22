@@ -1,4 +1,4 @@
-<script lang="ts">
+l<script lang="ts">
 	import IconButton from './iconButton.svelte';
 </script>
 
@@ -7,7 +7,7 @@
 		<IconButton
 			icon={'github'}
 			size="m"
-			onClickUrl="https://github.com/Albus00"
+			onClickUrl="https://github.com/kjellbergalbin"
 			targetBlank={true}
 		/>
 		<IconButton
