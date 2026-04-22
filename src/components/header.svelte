@@ -1,4 +1,4 @@
-l<script lang="ts">
+<script lang="ts">
 	import IconButton from './iconButton.svelte';
 </script>
 
